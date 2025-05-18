@@ -29,3 +29,7 @@ Clone the repository
 Run npm install
 
 Start the server using npm start
+
+Live Demo:
+Vercel Link : nxttrendz-ukd8.vercel.app
+
